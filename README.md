@@ -8,5 +8,5 @@ Eficiencia en tiempo y espacio: Implementación optimizada para procesar archivo
 
 Interfaz sencilla: Fácil de usar desde la línea de comandos o como una biblioteca en proyectos más grandes.
 
-Uso
+#Uso
 Compresión
